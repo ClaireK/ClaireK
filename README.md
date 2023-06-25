@@ -9,25 +9,13 @@ I'm a London based Front End Developer who's recently returned from an eight yea
 
 ## Skills
 <p>
-    [<img height="50" alt="JavaScript" src="https://github.com/ClaireK/ClaireK/assets/1563751/33766e36-7227-43d9-8210-a10cb6cc7037" >](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript){:target="_blank"}
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img height="50" alt="CSS3" src="https://github.com/ClaireK/ClaireK/assets/1563751/27e4e7a0-ea2d-4449-8bf2-8e9d717eda04" >
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-        <img height="50" alt="HTML5" src="https://github.com/ClaireK/ClaireK/assets/1563751/3d4e7b9c-7585-4b67-879a-d6f5fdf4ca37" >
-    </a>
-    <a href="https://react.dev/" target="_blank">
-        <img height="50" alt="React.js" src="https://github.com/ClaireK/ClaireK/assets/1563751/bef65ef1-17f1-4f19-9de9-f2bdeca133b7" >
-    </a>
-    <a href="https://nextjs.org/" target="_blank">
-        <img height="50" alt="NEXT.js" src="https://github.com/ClaireK/ClaireK/assets/1563751/2eb93a21-73fb-4d0b-9146-fff0425a4263" >
-    </a>
-    <a href="https://nodejs.org/" target="_blank">
-        <img height="50" alt="Node JS" src="https://github.com/ClaireK/ClaireK/assets/1563751/00ebf1d5-86b9-4681-b7d6-c23603a3ad4c" >
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img height="50" alt="TypeScript" src="https://github.com/ClaireK/ClaireK/assets/1563751/2dc3bfa0-7046-4c28-9d7a-f73e559e38e3" >
-    </a>
+    [<img alt="JavaScript" height="50px" src="https://github.com/ClaireK/ClaireK/assets/1563751/33766e36-7227-43d9-8210-a10cb6cc7037" />](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)
+    [<img alt="CSS3" height="50px" src="https://github.com/ClaireK/ClaireK/assets/1563751/27e4e7a0-ea2d-4449-8bf2-8e9d717eda04" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    [<img alt="HTML5" height="50px" src="https://github.com/ClaireK/ClaireK/assets/1563751/3d4e7b9c-7585-4b67-879a-d6f5fdf4ca37" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+    [<img alt="React.js" height="50px" src="https://github.com/ClaireK/ClaireK/assets/1563751/bef65ef1-17f1-4f19-9de9-f2bdeca133b7" />](https://react.dev/)
+    [<img alt="NEXT.js" height="50px" src="https://github.com/ClaireK/ClaireK/assets/1563751/2eb93a21-73fb-4d0b-9146-fff0425a4263" />](https://nextjs.org/)
+    [<img alt="Node JS" height="50px" src="https://github.com/ClaireK/ClaireK/assets/1563751/00ebf1d5-86b9-4681-b7d6-c23603a3ad4c" />](https://nodejs.org/)
+    [<img alt="TypeScript" height="50px" src="https://github.com/ClaireK/ClaireK/assets/1563751/2dc3bfa0-7046-4c28-9d7a-f73e559e38e3" />](https://www.typescriptlang.org/)
 </p>
 
 
