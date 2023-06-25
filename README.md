@@ -9,9 +9,7 @@ I'm a London based Front End Developer who's recently returned from an eight yea
 
 ## Skills
 <p>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/JavaScript" target="_blank">
-        <img height="50" alt="JavaScript" src="https://github.com/ClaireK/ClaireK/assets/1563751/33766e36-7227-43d9-8210-a10cb6cc7037" >
-    </a>
+    [<img height="50" alt="JavaScript" src="https://github.com/ClaireK/ClaireK/assets/1563751/33766e36-7227-43d9-8210-a10cb6cc7037" >](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript){:target="_blank"}
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img height="50" alt="CSS3" src="https://github.com/ClaireK/ClaireK/assets/1563751/27e4e7a0-ea2d-4449-8bf2-8e9d717eda04" >
     </a>
